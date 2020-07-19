@@ -1,4 +1,4 @@
-package definiton
+package definition
 
 import (
 	"testing"

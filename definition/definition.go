@@ -1,4 +1,4 @@
-package definiton
+package definition
 
 // New constructor
 func New(version string) Definition {
